@@ -7,6 +7,14 @@ contract Test {
     string c = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
     string d = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
     string av = "test";
+ string b = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string c = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string d = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string av = "test";
+ string b = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string c = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string d = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+    string av = "test";
 
     function test() external {
         uint array[] = [1, 2, 3];
